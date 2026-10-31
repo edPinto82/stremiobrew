@@ -1,3 +1,5 @@
+> **StremioBrew has moved.** It is now [Stremio Origin](https://github.com/stremio-origin/webos), a native app. This repository is archived and no longer updated.
+
 # StremioBrew
 
 An unofficial, Stremio-compatible client for **older, rooted LG webOS TVs** (webOS 3 and later),
